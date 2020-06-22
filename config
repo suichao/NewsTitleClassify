@@ -1,0 +1,11 @@
+{
+    "layerNum": 1,
+    "max_seq_len": 20,
+    "Tproperties": 300,
+    "calssNum": 15,
+    "embeddingdim": 100,
+    "batchSize": 100,
+    "vocabSize": 4563,
+    "headNum": 10,
+    "dropout_rate": 0.3
+}
